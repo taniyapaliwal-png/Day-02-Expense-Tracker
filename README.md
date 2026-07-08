@@ -1,4 +1,4 @@
-# Day-02-Expense-Tracker
+# Day-03-Expense-Tracker
 """
 💸 CHAOS WALLET — A Gamified Expense Tracker 💸
 ------------------------------------------------
